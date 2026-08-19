@@ -123,6 +123,10 @@ Correlation values are used to identify the strength and direction of relationsh
 
 ## 📊 Power BI Dashboard
 
+<img width="1366" height="720" alt="Screenshot 2026-08-19 121038" src="https://github.com/user-attachments/assets/48a680af-0af4-4a1b-9b3f-91462158e0a6" />
+<img width="1366" height="720" alt="Screenshot 2026-08-19 121048" src="https://github.com/user-attachments/assets/36bb83f3-b360-4160-a199-7b0cf4d74964" />
+
+
 An interactive Power BI dashboard was created to present the analysis in an easy-to-understand format.
 
 The dashboard includes analysis of:
